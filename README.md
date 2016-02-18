@@ -1,4 +1,4 @@
-python_ethernet_rmp [![Build Status](https://api.travis-ci.org/WPI-RAIL/python_ethernet_rmp.png)](https://travis-ci.org/WPI-RAIL/python_ethernet_rmp)
+python_ethernet_rmp [![Build Status](https://api.travis-ci.org/GT-RAIL/python_ethernet_rmp.png)](https://travis-ci.org/GT-RAIL/python_ethernet_rmp)
 ===================
 
 #### Segway RMP Ethernet Python Driver
